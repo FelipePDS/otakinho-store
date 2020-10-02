@@ -1,0 +1,183 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.top-bar {
+  width: 94%;
+  height: 6rem;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+}
+
+.top-bar i {
+  color: rgb(222, 222, 243) !important;
+  opacity: 50%;
+  transition: .3s;
+}
+
+.top-bar i:hover {
+  opacity: 100%;
+}
+
+.hero.is-success {
+  background: #24242b; /*#f0f0a9 - #171718* - #24242b*/
+}
+
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.empty-field {
+  display: none;
+}
+
+input {
+  font-weight: 300;
+}
+
+p {
+  font-weight: 700;
+  cursor: default;
+}
+
+.title {
+  margin-bottom: 1.4rem !important;
+  cursor: default;
+  color: rgb(222, 222, 243) !important;
+}
+
+.logo-img {
+  width: 14%;
+  margin-bottom: 1.4rem !important;
+  margin-left: 1.3rem !important;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notification {
+  box-shadow: 0 2px 3px rgba(10, 10, 10, 0.267), 0 0 0 1px rgba(10, 10, 10, 0.219);
+
+  position: relative;
+}
+
+.notification img {
+  width: .8rem;
+  margin: 0 !important;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+
+  position: absolute;
+  top: .4rem;
+  right: .6rem;
+
+  opacity: 60% !important;
+}
+
+.notification img:hover {
+  opacity: 95% !important;
+}
+
+.field {
+  color: rgb(202, 202, 233);
+  transition: all .3s ease;
+}
+
+.box {
+  background-color: #2e2e38;
+  box-shadow: 0 2px 3px rgba(10, 10, 10, 0.267), 0 0 0 1px rgba(10, 10, 10, 0.219);
+}
+
+.column p {
+  color: rgb(222, 222, 243) !important;
+}
+
+.control {
+  position: relative;
+}
+
+.input {
+  background: #24242b;
+  border-color: rgb(24, 22, 22);
+  color: rgba(235, 241, 233, 0.74);
+}
+
+.input::-webkit-input-placeholder {
+  color: rgba(209, 213, 248, 0.07);
+}
+
+.view-password {
+  position: absolute;
+  right: .8rem;
+  bottom: 37%;
+
+  width: 1rem;
+
+  transition: .3s;
+
+  filter: opacity(15%);
+
+  cursor: pointer;
+}
+
+.view-password:hover {
+  filter: opacity(100%);
+}
+
+.button {
+  background-color: #04D361 !important;
+  transition: .2s;
+}
+
+.button:hover {
+  background-color: #04BF58 !important;
+}
+
+.color-mode {
+  position: fixed;
+  right: 3rem;
+  bottom: 3rem;
+  padding: 1rem;
+
+  border: rgb(213, 213, 233) 1px solid;
+  border-radius: .8rem;
+  color: rgb(213, 213, 233);
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.color-mode:hover {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+@media(max-width: 769px) {
+  .color-mode {
+    right: 1rem;
+    bottom: 1rem;
+  }
+}

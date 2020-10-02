@@ -1,0 +1,269 @@
+/* CSS Document */
+/* ---------- FONTAWESOME ---------- */
+/* ---------- http://fortawesome.github.com/Font-Awesome/ ---------- */
+/* ---------- http://weloveiconfonts.com/ ---------- */
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+/* ---------- ERIC MEYER'S RESET CSS ---------- */
+/* ---------- http://meyerweb.com/eric/tools/css/reset/ ---------- */
+@import url(http://meyerweb.com/eric/tools/css/reset/reset.css);
+/* ---------- FONTAWESOME ---------- */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+
+/* ---------- GENERAL ---------- */
+* {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+}
+*:before, *:after {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+}
+
+body {
+  background-image: url(../images/bgBoku.jpg) !important;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #606468;
+  font: 87.5%/1.5em 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+a {
+  color: #eee;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p a {
+  transition: .3s;
+}
+
+input {
+  border: none;
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5em;
+  padding: 0;
+  -webkit-appearance: none;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+.mascara {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(36, 36, 43, 0.91) !important;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before, .clearfix:after {
+  content: ' ';
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix p span {
+  transition: .5s ease-in-out;
+}
+
+.clearfix p:hover span {
+  color: #1acc8d !important;
+}
+
+.fixed-top {
+  width: 80%;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 50%;
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.container-inscription {
+  top: 60%;
+}
+
+/* ---------- LOGIN ---------- */
+#login {
+  width: 280px;
+}
+
+#login form span {
+  background-color: #363b41;
+  border-radius: 3px 0px 0px 3px;
+  color: #606468;
+  display: block;
+  float: left;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  width: 50px;
+}
+
+#login form input {
+  height: 50px;
+}
+
+#login form input[type="text"], input[type="password"], input[type="email"] {
+  background-color: #3b4148;
+  border-radius: 0px 3px 3px 0px;
+  color: #606468;
+  margin-bottom: 1em;
+  padding: 0 16px;
+  width: 230px;
+}
+
+#login form input[type="submit"] {
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  background: #1acc8d;
+  color: #fff;
+  transition: all 0.4s;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 2em;
+  text-transform: uppercase;
+  width: 280px;
+}
+
+#login form input[type="submit"]:hover {
+  background: #2be4a2;
+  color: #fff;
+}
+
+#login > p {
+  text-align: center;
+}
+
+.password-container {
+  position: relative;
+}
+
+.view-password {
+  width: 1.1rem;
+
+  position: absolute;
+  top: 18px;
+  right: 10px;
+
+  opacity: 50%;
+
+  transition: 1.4s;
+
+  cursor: pointer;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray; /* IE */
+}
+
+.view-password:hover {
+  opacity: 70%;
+
+  transform: rotate(360deg);
+
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+  filter: gray; /* IE */
+}
+
+#login > p span {
+  padding-left: 5px;
+}
+
+
+.error {
+  display: block;
+  justify-content: center;
+  text-align: center;
+
+  font-weight: 700;
+
+  position: absolute;
+  top: -45px;
+
+  width: 24rem;
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem;
+
+  background-color: #ff3860;
+  color: rgb(222, 222, 243) !important;
+  box-shadow: 0 2px 3px rgba(10, 10, 10, 0.267), 0 0 0 1px rgba(10, 10, 10, 0.219);
+
+  border-radius: .4rem;
+
+  z-index: 2;
+}
+
+.error p {
+  margin: 0;
+}
+
+.error img {
+    width: .8rem;
+    margin: 0 !important;
+    cursor: pointer;
+    transition: 0.2s;
+    position: absolute;
+    top: .4rem;
+    right: .6rem;
+    opacity: 60% !important;
+}
+
+.error img:hover {
+  opacity: 100% !important;
+}
+
+@media (max-width: 1000px) {
+  body {
+  background-size: 110% 110%;
+  }
+}
+
+@media (max-width: 800px) {
+  body {
+  background-size: 120% 100%;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+  background-size: 125% 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+  background-size: 130% 100%;
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+  background-size: 140% 100%;
+  }
+}
+
+@media (max-width: 300px) {
+  body {
+  background-size: 150% 100%;
+  }
+}
