@@ -1,5 +1,7 @@
 # <h1 align="center">Project of an invoice system. <strong>"Otakinho Store"</strong></h1>
 
+<p align="center"><img src="https://github.com/FelipePDS/Otakinho-Store/blob/master/assets/images/db4.gif"/></p>
+
 <h2 align="center">Description</h2>
 <p align="center">A project carried out to meet the requirements of the subject of DDW (Development and Web Design) and PW (Programming for Web), from ETEC MCM.</p>
 <p align="center">A project to learn PHP codes in relation to the Database to require the knowledge of a Weak Entity in the Database, where CRUD (Create Read Update Delete) is used. In it is created an Invoice System and to make it legal, I made it in an otaku store style (Geekie), using JS, HTML5, CSS3, PHP, MySQL and Bootstrap. It acquired knowledge about WEB development and design, Programming and using Database.</p>
