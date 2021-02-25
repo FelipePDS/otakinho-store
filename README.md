@@ -15,7 +15,8 @@
 
 <h5>Clone The Project</h5>
 <p>In a terminal with the directory inside the XAMPP htdocs folder, give the following command to clone the project: <br>$ git clone</p>
-<p>aaaaa</p>
+<p>Now we need to put the database in the project, so turn on XAMPP, with Apache and MySql enabled and access http: // localhost / phpmyadmin inside the browser. Within it the database is imported, which is in DATABASE> systemnf.sql in the project.</p>
+<p>Now we need to access the project inside the browser, so with XAMPP on go to http://localhost/nameOfTheProjectFolder/</p>
 
 <h2 align="center">Preview</h2>
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-01.JPG" alt="Loja Otakinho Preview"/></p>
