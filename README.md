@@ -6,6 +6,17 @@
 <p align="center">A project carried out to meet the requirements of the subject of DDW (Development and Web Design) and PW (Programming for Web), from ETEC MCM.</p>
 <p align="center">A project to learn PHP codes in relation to the Database to require the knowledge of a Weak Entity in the Database, where CRUD (Create Read Update Delete) is used. In it is created an Invoice System and to make it legal, I made it in an otaku store style (Geekie), using JS, HTML5, CSS3, PHP, MySQL and Bootstrap. It acquired knowledge about WEB development and design, Programming and using Database.</p>
 
+<h2 align="center">Requirements To Clone The Project</h2>
+<h5>Technologies</h5>
+<ul>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a> as code editor</li>
+  <li><a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a> as server to compile the PHP and MYSQL</li>
+</ul>
+
+<h5>Clone The Project</h5>
+<p>In a terminal with the directory inside the XAMPP htdocs folder, give the following command to clone the project: <br>$ git clone</p>
+<p>aaaaa</p>
+
 <h2 align="center">Preview</h2>
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-01.JPG" alt="Loja Otakinho Preview"/></p>
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-02.JPG" alt="Loja Otakinho Preview"/></p>
