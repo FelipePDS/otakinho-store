@@ -1,8 +1,8 @@
 # <h1 align="center">Project of an invoice system. <strong>"Otakinho Store"</strong></h1>
 
-<p align="center"><img src="https://github.com/FelipePDS/Otakinho-Store/blob/master/assets/images/db4.gif"/></p>
-
 <p align="right"><blockquote>Project Status: concluded :heavy_check_mark:</blockquote></p>
+
+<p align="center"><img src="https://github.com/FelipePDS/Otakinho-Store/blob/master/assets/images/db4.gif"/></p>
 
 <h2 align="center">Description</h2>
 <p align="center">A project carried out to meet the requirements of the subject of DDW (Development and Web Design) and PW (Programming for Web), from ETEC MCM.</p>
