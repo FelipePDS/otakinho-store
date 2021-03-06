@@ -36,5 +36,7 @@
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-13.JPG" alt="Loja Otakinho Preview"/></p>
 
 <footer>
-  <p align="center">&copy; FelipePDS</p>
+  <h2 align="center">License</h2>
+  
+  <p align="center">MIT License &nbsp;&bull;&nbsp; &copy; FelipePDS</p>
 </footer>
