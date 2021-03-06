@@ -5,7 +5,7 @@
 <h2 align="center">Summary</h2>
 <p align="center">
  <a href="#description">Description</a> &bull; 
- <a href="#requirements">Requirement To Clone The Projects</a> &bull; 
+ <a href="#requirements">Requirements</a> &bull; 
  <a href="#preview">Preview</a> &bull; 
  <a href="#license">License</a>
 </p>
