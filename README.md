@@ -12,7 +12,8 @@
 <h5>Technologies</h5>
 <ul>
   <li><a href="https://code.visualstudio.com/">Visual Studio Code</a> as code editor</li>
-  <li><a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a> as server to compile the PHP and MYSQL</li>
+  <li><a href="https://www.apachefriends.org/pt_br/">XAMPP</a> as server to compile the PHP and MYSQL</li>
+  <li><a href="https://git-scm.com/downloads/">Git Bash</a> as our terminal</li>
 </ul>
 
 <h5>Clone The Project</h5>
