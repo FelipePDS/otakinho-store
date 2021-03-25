@@ -9,6 +9,7 @@
  <a href="#description">Description</a> &bull; 
  <a href="#requirements">Requirements</a> &bull; 
  <a href="#preview">Preview</a> &bull; 
+ <a href="#author">Author</a> &bull; 
  <a href="#license">License</a>
 </p>
 
@@ -45,6 +46,10 @@
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-11.JPG" alt="Loja Otakinho Preview"/></p>
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-12.JPG" alt="Loja Otakinho Preview"/></p>
 <p align="center"><img src="https://github.com/FelipePDS/Project-of-an-invoice-system-Loja-Otakinho/blob/master/assets/images/git-13.JPG" alt="Loja Otakinho Preview"/></p>
+
+<h2 align="center" id="author">Author</h2>
+<p align="center">Made by <a href="https://github.com/FelipePDS/Otakinho-Store/blob/master/LICENSE">FelipePDS</a> :green_heart:</p>
+<p align="center"><a href="https://www.linkedin.com/in/felipe-p-da-silva-a55b891ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiErPy3g7Q1KGOaD%2BsGw%2Fpg%3D%3D"><img src="https://img.shields.io/static/v1?label=+&message=Felipe+P.+Da+Silva&color=0A66C2&style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/FelipePintoDaS1"><img src="https://img.shields.io/static/v1?label=+&message=@FelipePintoDaS1&color=1DA1F2&style=flat&logo=twitter&logoColor=white"/></a> <img src="https://img.shields.io/static/v1?label=+&message=felipepdasilva66@gmail.com&color=EA4335&style=flat&logo=gmail&logoColor=white"/></p>
 
 <footer>
   <h2 align="center" id="license">License</h2>
