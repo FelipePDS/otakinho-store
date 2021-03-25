@@ -1,5 +1,7 @@
 # <h1 align="center">Project of an invoice system. <strong>"Otakinho Store"</strong></h1>
 
+<p align="center"><a href="https://github.com/FelipePDS/The-redemption-plage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePDS/The-redemption-plage"/></a> <img src="https://img.shields.io/static/v1?label=Build&message=Sucess&color=sucess&style=flat&logo=+"/> <img src="https://img.shields.io/github/stars/FelipePDS/Otakinho-Store"/> <a href="https://felipepds.github.io/minecraft-in-bootstrap"><img src="https://img.shields.io/static/v1?label=+&message=Otakinho+Store&color=62B47A&style=flat&logo=+"/></a></p>
+
 <p align="center"><img src="https://github.com/FelipePDS/Otakinho-Store/blob/master/assets/images/db4.gif"/></p>
 
 <h2 align="center">Summary</h2>
