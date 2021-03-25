@@ -22,9 +22,9 @@
 <h2 align="center" id="requirements">Requirements To Clone The Project</h2>
 <h5>Technologies</h5>
 <ul>
-  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a> as code editor</li>
-  <li><a href="https://www.apachefriends.org/pt_br/">XAMPP</a> as server to compile the PHP and MYSQL</li>
-  <li><a href="https://git-scm.com/downloads/">Git Bash</a> as our terminal</li>
+  <li><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/static/v1?label=+&message=Visual+Studio+Code&color=007ACC&style=flat&logo=visual%20studio%20code&logoColor=white"/></a> as code editor</li>
+  <li><a href="https://www.apachefriends.org/pt_br/"><img src="https://img.shields.io/static/v1?label=+&message=Xampp&color=FB7A24&style=flat&logo=xampp&logoColor=white"/></a> as server to compile the PHP and MYSQL</li>
+  <li><a href="https://git-scm.com/downloads/"><img src="https://img.shields.io/static/v1?label=+&message=GitBash&color=F05032&style=flat&logo=git&logoColor=white"/></a> as our terminal</li>
 </ul>
 
 <h5>Clone The Project</h5>
